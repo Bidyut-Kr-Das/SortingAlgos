@@ -4,5 +4,5 @@
 > </br>
 > If any error tell me okay 0_0
 </br>
-##If you are copying the whole repository make sure to delete this readme file.
-> &emsp;&emsp;&emsp; **_-Bidyut Kr Das_**
+## If you are copying the whole repository make sure to delete this readme file.
+> &emsp;&emsp;&emsp; ***-Bidyut Kr Das***
