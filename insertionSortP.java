@@ -30,7 +30,7 @@ public class insertionSortP {
                 else
                     break;
             }
-            arr[j+1] = temp;
+            arr[j + 1] = temp;
         }
     }
 }
